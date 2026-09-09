@@ -40,8 +40,6 @@ To ensure scientific rigor when using these data, it is vital to respect the fol
 The complete final dataset (ProbioSML) is hosted on Zenodo, ensuring persistent access and versioning:
 Access ProbioSML on Zenodo: https://doi.org/10.5281/zenodo.14181443
 
-(In this GitHub repository, you can find the scripts [insert links or folders to scripts here, if any] used for feature extraction, data processing, and statistical modeling).
-
 ## Citation
 
 If you use this dataset, matrices, or scripts in your research, please cite our work:
