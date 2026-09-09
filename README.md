@@ -48,6 +48,5 @@ If you use this dataset, matrices, or scripts in your research, please cite our 
 
 > Rodrigues DLN, Sodrzeieski PA, Auger S, Chatel J-M, Benko-Iseppon AM, Azevedo V, Soares SdC and Aburjaile FF (2026). A machine learning-derived genomic dataset from bacteria frequently reported as probiotics. Frontiers in Bioinformatics 6:1810235. doi: 10.3389/fbinf.2026.1810235
 
-DOI:https://doi.org/10.3389/fbinf.2026.1810235
 ---
 Developed by the Integrative Bioinformatics Laboratory (IBL).
